@@ -1,6 +1,9 @@
 # Stock Alert Tracker
 
-Repo: https://github.com/Danqest/15-Project2-Stock-Alert-Tracker
+Repo: https://github.com/Danqest/15-Project2-Stock-Alert-Tracker <br>
+Deployed Link: https://whispering-harbor-13477.herokuapp.com
+
+
 
 ## Description
 We're creating an app that users can log in with their personal credentials and they're able to create alerts to certain stocks of their choice. They're also able to follow other alerts created by other users
